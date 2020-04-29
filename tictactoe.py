@@ -173,4 +173,4 @@ game_start()
 
 while replay():
     game_start()
-    print('Hope you had fun! See ya!')
+print('Hope you had fun! See ya!')
